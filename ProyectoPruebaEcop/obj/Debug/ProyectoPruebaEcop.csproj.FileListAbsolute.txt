@@ -1,0 +1,16 @@
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\bin\Debug\ProyectoPruebaEcop.exe.config
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\bin\Debug\ProyectoPruebaEcop.exe
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\bin\Debug\ProyectoPruebaEcop.pdb
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.csproj.AssemblyReference.cache
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.csproj.SuggestedBindingRedirects.cache
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.BuscarCliente.resources
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.BuscarProducto.resources
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.CLIENTE.resources
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.Form1.resources
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.PEDIDO.resources
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.PRODUCTO.resources
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.Properties.Resources.resources
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.csproj.GenerateResource.cache
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.csproj.CoreCompileInputs.cache
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.exe
+C:\ECOP\ProyectoPruebaEcop\ProyectoPruebaEcop\obj\Debug\ProyectoPruebaEcop.pdb
